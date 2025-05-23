@@ -1,0 +1,15 @@
+# Core Dependencies (currently used in main.py)
+streamlit==1.29.0
+pandas==2.1.4
+plotly==5.17.0
+
+# Dependencies of core packages (automatically installed)
+# numpy==1.24.3  # installed with pandas
+# python-dateutil==2.8.2  # installed with pandas
+
+# Optional packages for future features (currently not used)
+# matplotlib==3.8.2
+# seaborn==0.13.0
+# openpyxl==3.1.2  # for Excel file support
+# xlrd==2.0.1  # for older Excel formats
+# flask==3.0.0  # alternative to streamlit 

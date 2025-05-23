@@ -1,0 +1,21 @@
+Date,Product Category,Region,Sales Amount,Units Sold,Customer Rating,Sales Rep
+2024-01-15,Electronics,North,2450.00,12,4.5,Alice Johnson
+2024-01-18,Clothing,South,1875.50,25,4.2,Bob Smith
+2024-01-22,Home & Garden,East,3200.75,8,4.8,Carol Davis
+2024-02-03,Electronics,West,1950.00,10,4.1,David Wilson
+2024-02-08,Books,North,890.25,45,4.6,Alice Johnson
+2024-02-14,Clothing,South,2100.00,30,4.3,Bob Smith
+2024-02-20,Sports,East,1650.50,15,4.4,Carol Davis
+2024-03-05,Electronics,North,3100.00,18,4.7,Alice Johnson
+2024-03-12,Home & Garden,West,2750.25,12,4.5,David Wilson
+2024-03-18,Clothing,South,1425.75,20,3.9,Bob Smith
+2024-03-25,Books,East,675.00,35,4.2,Carol Davis
+2024-04-02,Sports,North,2200.50,22,4.6,Alice Johnson
+2024-04-10,Electronics,West,2850.00,16,4.4,David Wilson
+2024-04-15,Clothing,South,1950.25,28,4.1,Bob Smith
+2024-04-22,Home & Garden,East,3450.75,14,4.9,Carol Davis
+2024-05-01,Books,North,1120.00,50,4.3,Alice Johnson
+2024-05-08,Sports,West,1875.50,18,4.2,David Wilson
+2024-05-15,Electronics,South,2675.25,15,4.6,Bob Smith
+2024-05-22,Clothing,East,2225.00,32,4.0,Carol Davis
+2024-05-28,Home & Garden,North,2950.50,11,4.8,Alice Johnson 
