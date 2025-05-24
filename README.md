@@ -105,8 +105,6 @@ Download:
 ✅ **Keep related data together** (don't split across multiple files)  
 ✅ **Remove empty rows** at the top or bottom  
 
-Try uploading these first to see how the AI works!
-
 ---
 
 ## 🚀 Ready to discover what your data is telling you?
