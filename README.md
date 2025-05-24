@@ -96,26 +96,6 @@ Download:
 ### **What you need:**
 - A computer with internet
 - A CSV file (your spreadsheet saved as CSV)
-- 5 minutes to set up
-
-### **Setup steps:**
-
-1. **Get the AI key** (free):
-   - Go to [Google AI Studio](https://makersuite.google.com/app/apikey)
-   - Sign in with Google account
-   - Click "Create API Key"
-   - Copy the key (looks like: `abc123def456...`)
-
-2. **Save your AI key**:
-   - Create a new text file in the same folder as this project
-   - Name it `.env` (just .env, no other name)
-   - Inside, type: `GEMINI_API_KEY=paste_your_key_here`
-   - Save the file
-
-3. **Run the application**:
-   - Open terminal/command prompt
-   - Type: `streamlit run main.py`
-   - Your browser will open with the application
 
 ## 💡 Tips for best results
 
@@ -125,42 +105,7 @@ Download:
 ✅ **Keep related data together** (don't split across multiple files)  
 ✅ **Remove empty rows** at the top or bottom  
 
-### **Asking good questions:**
-✅ **Be specific**: "How do customer ratings affect sales?" vs "Show me stuff"  
-✅ **Focus on business goals**: "What drives my best performance?"  
-✅ **Think about decisions**: "Which products should I focus on?"  
-
-## 🎯 Sample data to try
-
-The project includes sample files you can test with:
-- **`sample_data.csv`**: Basic contact information (10 rows)
-- **`sales_data.csv`**: Business sales data (20 rows) - perfect for testing all features
-
 Try uploading these first to see how the AI works!
-
-## 🆘 Common questions
-
-**Q: What file types work?**  
-A: Only CSV files. You can save any spreadsheet as CSV from Excel, Google Sheets, etc.
-
-**Q: Is my data private?**  
-A: Your data is processed through Google's AI, but not stored permanently. Read Google's privacy policy for details.
-
-**Q: What if I don't like the AI's suggestions?**  
-A: You can always ask custom questions or regenerate options. There's also manual exploration available.
-
-**Q: Can I use this for large datasets?**  
-A: Works best with datasets under 10,000 rows. Larger files may be slow.
-
-**Q: Do I need to know programming?**  
-A: Absolutely not! It's designed for non-technical users.
-
-## 🎊 What people say
-
-*"Finally, I can understand my sales data without learning Excel formulas!"*  
-*"The AI asked exactly the right questions about my customer data."*  
-*"I got insights in 5 minutes that would have taken me hours to figure out."*  
-*"The explanations made everything clear - I could actually present this to my boss!"*
 
 ---
 
